@@ -6,7 +6,7 @@
   <img align="left" alt="Subhan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/subhanraj2002/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Subhan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Subhan">
   <img align="left" alt="Subhan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/masterofcosmos/">
   <img align="left" alt="Subhan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/SubhanRaj/"> 
+<a href="https://www.facebook.com/SubhanRaj2002/"> 
   <img align="left" alt="Subhan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/">
@@ -41,12 +41,12 @@
 [![Twitter: Subhan Raj](https://img.shields.io/twitter/follow/SubhanRaj?style=social)](https://twitter.com/SubhanRaj2002)
 [![Linkedin: SubhanRaj](https://img.shields.io/badge/-SubhanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SubhanRaj/)](https://www.linkedin.com/in/SubhanRaj/)
 [![GitHub SubhanRaj](https://img.shields.io/github/followers/SubhanRaj?label=follow&style=social)](https://github.com/SubhanRaj)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://sibintech.com/subhan-raj/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-sibintech.com/subhan-raj/-2648ff?style=flat-square&logo=google-chrome)](https://sibintech.com/subhan-raj/)
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -57,7 +57,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanRaj&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/SubhanRaj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhanRaj&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhanRaj&show_icons=true&theme=light&line_height=27" alt="Subhan's github stats"/>
 </a>
 <a href="https://github.com/SubhanRaj/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=FlutterExampleApps&theme=light" />
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by following me!
 
 </div>
 

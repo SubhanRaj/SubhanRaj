@@ -41,7 +41,7 @@
 [![Twitter: Subhan Raj](https://img.shields.io/twitter/follow/SubhanRaj?style=social)](https://twitter.com/SubhanRaj2002)
 [![Linkedin: SubhanRaj](https://img.shields.io/badge/-SubhanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SubhanRaj/)](https://www.linkedin.com/in/SubhanRaj/)
 [![GitHub SubhanRaj](https://img.shields.io/github/followers/SubhanRaj?label=follow&style=social)](https://github.com/SubhanRaj)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://sibintech.com/subhan-raj/)
+
 
 
 **Languages and Tools:**  

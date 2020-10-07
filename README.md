@@ -5,7 +5,7 @@
 <a href="https://twitter.com/SubhanRaj2002">
   <img align="left" alt="Subhan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/SubhanRaj">
+<a href="https://www.linkedin.com/in/subhanraj2002/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Subhan">

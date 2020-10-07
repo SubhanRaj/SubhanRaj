@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhanRaj&label=Views&color=blue&style=plastic" alt="SubhanRaj" /> </p>
 
-<a href="https://twitter.com/subhanraj">
+<a href="https://twitter.com/SubhanRaj2002">
   <img align="left" alt="Subhan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/SubhanRaj">
@@ -34,11 +34,11 @@
 - 👯 Working on different Astronomy Projecdts in collabration with NASA and ESO.
 - 🤔 Doing B. Tech CSE.
 - 💬 I can tell you about the never ending Cosmos, Most loved Physics, PC Builds, Harwares and the digital stuffs I deal with.
-- 📫 How to reach me: [Twitter - @SubhanRaj](https://twitter.com/SubhanRaj) , [Instagram - @masterofcosmos](https://instagram.com/masterofcosmos)
+- 📫 How to reach me: [Twitter - @SubhanRaj](https://twitter.com/SubhanRaj2002) , [Instagram - @masterofcosmos](https://instagram.com/masterofcosmos)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love CS but can't live with Physics.
 
-[![Twitter: Subhan Raj](https://img.shields.io/twitter/follow/SubhanRaj?style=social)](https://twitter.com/SubhanRaj)
+[![Twitter: Subhan Raj](https://img.shields.io/twitter/follow/SubhanRaj?style=social)](https://twitter.com/SubhanRaj2002)
 [![Linkedin: SubhanRaj](https://img.shields.io/badge/-SubhanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SubhanRaj/)](https://www.linkedin.com/in/SubhanRaj/)
 [![GitHub SubhanRaj](https://img.shields.io/github/followers/SubhanRaj?label=follow&style=social)](https://github.com/SubhanRaj)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://sibintech.com/subhan-raj/)

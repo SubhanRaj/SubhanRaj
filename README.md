@@ -62,7 +62,7 @@
 <a href="https://github.com/SubhanRaj/cs50-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=cs50-web&theme=light" />
 
-</a>
+
 <a href="https://github.com/SubhanRaj/AstroSTEM">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=AstroSTEM&theme=light" />
 </a>

@@ -59,8 +59,8 @@
 <a href="https://github.com/SubhanRaj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhanRaj&show_icons=true&theme=light&line_height=27" alt="Subhan's github stats"/>
 </a>
-<a href="https://github.com/SubhanRaj/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/SubhanRaj/cs50-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=cs50-web&theme=light" />
 
 </a>
 <a href="https://github.com/SubhanRaj/AstroSTEM">

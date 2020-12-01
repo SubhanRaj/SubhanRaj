@@ -29,9 +29,9 @@
 
 
 
-- 🔭 I’m currently working on [HTML, CSS, JS & Python](https://github.com/SubhanRaj).
+- 🔭 I’m currently working on [HTML, CSS, C/C++ JS & Python](https://github.com/SubhanRaj).
 - 🌱 I’m currently learning more about C++ & Java.
-- 👯 Working on different Astronomy Projecdts in collabration with NASA and ESO.
+- 👯 Working on different Astronomy Projects in collabration with NASA and ESO.
 - 🤔 Doing B. Tech CSE.
 - 💬 I can tell you about the never ending Cosmos, Most loved Physics, PC Builds, Harwares and the digital stuffs I deal with.
 - 📫 How to reach me: [Twitter - @SubhanRaj](https://twitter.com/SubhanRaj2002) , [Instagram - @masterofcosmos](https://instagram.com/masterofcosmos)

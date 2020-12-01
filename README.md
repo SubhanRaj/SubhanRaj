@@ -67,12 +67,14 @@
 <a href="https://github.com/SubhanRaj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhanRaj&show_icons=true&theme=light&line_height=27" alt="Subhan's github stats"/>
 </a>
+<a href="https://github.com/SubhanRaj/Programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=Programming&theme=dark" />
+  <br>
+  <br>
 <a href="https://github.com/SubhanRaj/cs50-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=cs50-web&theme=light" />
-
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=cs50-web&theme=dark" />
 <a href="https://github.com/SubhanRaj/AstroSTEM">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=AstroSTEM&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=AstroSTEM&theme=dark" />
 </a>
 
 <div align="center">

@@ -36,7 +36,7 @@
 - 💬 I can tell you about the never ending Cosmos, Most loved Physics, PC Builds, Harwares and the digital stuffs I deal with.
 - 📫 How to reach me: [Twitter - @SubhanRaj](https://twitter.com/SubhanRaj2002) , [Instagram - @masterofcosmos](https://instagram.com/masterofcosmos)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love CS but can't live with Physics.
+- ⚡ Fun fact: I love CS but can't live without Physics.
 
 [![Twitter: Subhan Raj](https://img.shields.io/twitter/follow/SubhanRaj?style=social)](https://twitter.com/SubhanRaj2002)
 [![Linkedin: SubhanRaj](https://img.shields.io/badge/-SubhanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhanraj2002/)](https://www.linkedin.com/in/subhanraj2002/)

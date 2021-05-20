@@ -20,8 +20,8 @@
 <a href="https://www.facebook.com/masterofcosmos/"> 
   <img align="left" alt="Subhan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/">
-  <img align="left" alt="Curently Not there" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCTtiGGK-3VxUJSdCYIEui1g?view_as=subscriber/">
+  <img align="left" alt="Master Of Cosmos Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -29,8 +29,8 @@
 
 
 
-- 🔭 I’m currently working on [HTML, CSS, C/C++ JS & Python](https://github.com/SubhanRaj).
-- 🌱 I’m currently learning more about C++ & Java.
+- 🔭 I’m currently working on [Python, Dart & Flutter](https://github.com/SubhanRaj).
+- 🌱 I’m currently learning more about Flutter and Python
 - 👯 Working on different Astronomy Projects in collabration with NASA and ESO.
 - 🤔 Doing B. Tech CSE.
 - 💬 I can tell you about the never ending Cosmos, Most loved Physics, PC Builds, Harwares and the digital stuffs I deal with.
@@ -59,7 +59,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/flutter.png"></code>
 
 <a href="https://github.com/SubhanRaj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanRaj&theme=light&hide_langs_below=1" />
@@ -70,13 +70,7 @@
 <a href="https://github.com/SubhanRaj/Programming">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=Programming&theme=dark" />
   <br>
-  <br>
-<a href="https://github.com/SubhanRaj/cs50-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=cs50-web&theme=dark" />
-<a href="https://github.com/SubhanRaj/AstroSTEM">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=AstroSTEM&theme=dark" />
-</a>
-
+ 
 <div align="center">
 
 ### Show some ❤️ by following me!

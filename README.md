@@ -29,10 +29,10 @@
 
 
 
-- 🔭 I’m currently working on [Python, Dart & Flutter](https://github.com/SubhanRaj).
-- 🌱 I’m currently learning more about Flutter and Python
+- 🔭 Currently working on [Flutter](https://flutter.dev) and [React](https://reactjs.org).
+- 🌱 I’m currently learning more about JavaScrpit, Python, C++ etc.
 - 👯 Working on different Astronomy Projects in collabration with NASA and ESO.
-- 🤔 Doing B. Tech CSE.
+- 🤔 Doing Graduation in Computer Science Enginnering
 - 💬 I can tell you about the never ending Cosmos, Most loved Physics, PC Builds, Hardware and the digital stuffs I deal with.
 - 📫 How to reach me: Twitter - [@SubhanRaj](https://twitter.com/SubhanRaj2002) , Instagram - [@masterofcosmos](https://instagram.com/masterofcosmos)
 - 😄 Pronouns: He/His
@@ -48,10 +48,11 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>  
@@ -65,6 +66,7 @@
 <a href="https://github.com/SubhanRaj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanRaj&theme=light&hide_langs_below=1" />
 </a>
+
 <a href="https://github.com/SubhanRaj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhanRaj&show_icons=true&theme=light&line_height=27" alt="Subhan's github stats"/>
 </a>

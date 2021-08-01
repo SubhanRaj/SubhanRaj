@@ -1,4 +1,4 @@
-## Bonjour, I'm [Subhan Raj!](https://sibintech.com/subhan-raj) 👋
+## Bonjour, I'm [Subhan Raj!](https://subhanraj.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhanRaj&label=Views&color=blue&style=plastic" alt="SubhanRaj" /> </p>
 
@@ -20,14 +20,12 @@
 <a href="https://www.facebook.com/masterofcosmos/"> 
   <img align="left" alt="Subhan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCTtiGGK-3VxUJSdCYIEui1g?view_as=subscriber/">
+<a href="https://www.youtube.com/channel/UCTtiGGK-3VxUJSdCYIEui1g">
   <img align="left" alt="Master Of Cosmos Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
 <br/>
-
-
 
 - 🔭 Currently working on [Flutter](https://flutter.dev) and [React](https://reactjs.org).
 - 🌱 I’m currently learning more about JavaScrpit, Python, C++ etc.
@@ -42,16 +40,16 @@
 [![Linkedin: SubhanRaj](https://img.shields.io/badge/-SubhanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhanraj2002/)](https://www.linkedin.com/in/subhanraj2002/)
 [![GitHub SubhanRaj](https://img.shields.io/github/followers/SubhanRaj?label=follow&style=social)](https://github.com/SubhanRaj)
 
-
-
 **Languages, Tools, Software & OSs:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
@@ -77,7 +75,7 @@
   <br>
  
 <div align="center">
-
+<br>
 ### Show some ❤️ by following me!
 
 </div>

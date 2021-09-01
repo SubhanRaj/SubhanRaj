@@ -62,7 +62,7 @@
 
 
 <a href="https://github.com/SubhanRaj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanRaj&langs_count=8&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanRaj&langs_count=10&theme=light" />
 </a>
 
 <a href="https://github.com/SubhanRaj">

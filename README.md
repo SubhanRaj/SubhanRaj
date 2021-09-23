@@ -87,7 +87,7 @@
  
 <div align="center">
 <br>
-### Show some ❤️ by following me!
+                   <h2>Show some ❤️ by following me!</h2>
 
 </div>
 

@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/masterofcosmos/"> 
   <img align="left" alt="Subhan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCTtiGGK-3VxUJSdCYIEui1g">
+<a href="https://www.youtube.com/channel/masterofcosmos">
   <img align="left" alt="Master Of Cosmos Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -28,7 +28,7 @@
 <br/>
 
 - 🔭 Currently working on [Flutter](https://flutter.dev) and [React](https://reactjs.org).
-- 🌱 I’m currently learning more about JavaScrpit, Python, C++ etc.
+- 🌱 I’m currently learning more about JavaScript, Python, C++ etc.
 - 👯 Working on different Astronomy Projects in collabration with NASA and ESO.
 - 🤔 Doing Graduation in Computer Science Enginnering
 - 💬 I can tell you about the never ending Cosmos, Most loved Physics, PC Builds, Hardware and the digital stuffs I deal with.

@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/masterofcosmos/"> 
   <img align="left" alt="Subhan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/masterofcosmos">
+<a href="https://www.youtube.com/c/MasterofCosmos/">
   <img align="left" alt="Master Of Cosmos Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 

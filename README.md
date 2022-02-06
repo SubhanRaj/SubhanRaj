@@ -68,9 +68,11 @@
 
 <a href="https://github.com/SubhanRaj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhanRaj&count_private=true&show_icons=true&theme=light&line_height=27" alt="Subhan's github stats"/>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SubhanRaj&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br>
+ <br>
+  <br>
+<a href="https://github.com/SubhanRaj">
+    <img title="" alt="Subhan Raj's streak" src="https://github-readme-streak-stats.herokuapp.com?user=SubhanRaj&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 <br>
 <a href="https://github.com/SubhanRaj/My-Online-Meals">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=My-Online-Meals&theme=dark" />

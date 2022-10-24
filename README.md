@@ -74,17 +74,17 @@
     <img title="" alt="Subhan Raj's streak" src="https://github-readme-streak-stats.herokuapp.com?user=SubhanRaj&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
 <br>
-<a href="https://github.com/SubhanRaj/My-Online-Meals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=My-Online-Meals&theme=dark" />
+<a href="https://github.com/SubhanRaj/DS-Algo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=DS-Algo&theme=dark" />
 </a>
-<a href="https://github.com/SubhanRaj/Gym_Website_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=Gym_Website_Project&theme=dark" />
+<a href="https://github.com/SubhanRaj/kmclu-club">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=kmclu-club&theme=dark" />
 </a>
-<a href="https://github.com/SubhanRaj/react-test-app>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=react-test-app=dark" />
+<a href="https://github.com/SubhanRaj/kmclu-placement-cell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=kmclu-placement-cell&theme=dark" />
 </a>
-<a href="https://github.com/SubhanRaj/Programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=Programming&theme=dark" />
+<a href="https://github.com/SubhanRaj/Flutter-music-player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SubhanRaj&repo=Flutter-music-player&theme=dark" />
 </a>
   <br>
  

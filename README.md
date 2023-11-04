@@ -11,7 +11,7 @@
 <a href="https://github.com/Subhan">
   <img align="left" alt="Subhan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/masterofcosmos">
+<a href="https://t.me/Master_Of_Cosmos">
   <img align="left" alt="Subhan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/masterofcosmos/">
